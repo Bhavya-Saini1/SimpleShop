@@ -1,16 +1,14 @@
 //
-//  SimpleShop.swift
+//  SimpleShopApp.swift
+//  SimpleShop
 //
-// @main
-//
-//  Created by Bhavya Saini on 2025-12-22.
+//  Created by Parth Narkhede on 2025-12-22.
 //
 
 import SwiftUI
 
-
 @main
-struct MyApp: App {
+struct SimpleShopApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
