@@ -6,14 +6,3 @@
 //  Created by Bhavya Saini on 2025-12-22.
 //
 
-import SwiftUI
-
-
-@main
-struct MyApp: App {
-    var body: some Scene {
-        WindowGroup {
-            ContentView()
-        }
-    }
-}

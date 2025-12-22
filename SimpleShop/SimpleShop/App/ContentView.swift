@@ -1,15 +1,18 @@
 //
-//  HomeView.swift
+//  ContentView.swift
 //  SimpleShop
 //
 //  Created by Parth Narkhede on 2025-12-22.
 //
+
 import SwiftUI
 
-struct CartView: View {
+struct ContentView: View {
     var body: some View {
-        Text("Cart")
-            .font(.largeTitle)
-            .padding()
+        RootTabView()
     }
+}
+
+#Preview {
+    ContentView()
 }
